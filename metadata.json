@@ -1,0 +1,6 @@
+{
+  "name": "Groww Mutual Fund Facts Assistant",
+  "description": "AI-powered factual assistant for SBI Mutual Fund schemes on Groww, providing verified scheme information, factsheets, and source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
